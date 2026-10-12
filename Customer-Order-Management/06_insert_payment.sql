@@ -1,0 +1,1 @@
+INSERT INTO payments(payment_id, amount, customer_id) VALUES(1, 45000.00, 1),(2, 75000.00, 2),(3, 35000.00, 3), (4, 85000.00, 4)

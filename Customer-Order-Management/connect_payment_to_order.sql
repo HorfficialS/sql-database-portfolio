@@ -1,0 +1,1 @@
+ALTER TABLE payments ADD CONSTRAINT fk_payment_order FOREIGN KEY (order_id) REFERENCES orders(order_id)

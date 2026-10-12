@@ -1,0 +1,1 @@
+SELECT c.name, o.product, o.price, p.amount FROM customers c INNER JOIN orders o ON c.customer_id = o.customer_id INNER JOIN payments p ON o.order_id = p.order_id

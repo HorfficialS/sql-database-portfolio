@@ -1,0 +1,1 @@
+CREATE TABLE payments(payment_id INT PRIMARY KEY, amount DECIMAL(10,2),customer_id INT, FOREIGN KEY(customer_id) REFERENCES customers(customer_id))

@@ -1,0 +1,1 @@
+INSERT INTO customers (customer_id, name, country, age) VALUES (1,'Mathew','Nigeria',25), (2,'John','USA',32),(3,'Sarah','Canada',28),(4,'David','UK',41),(5,'Grace','Nigeria',30)

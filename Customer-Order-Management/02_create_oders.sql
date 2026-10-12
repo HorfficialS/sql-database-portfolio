@@ -1,0 +1,1 @@
+CREATE TABLE orders (order_id INT PRIMARY KEY, product VARCHAR(100), price DECIMAL(10,2), customer_id INT, FOREIGN KEY (customer_id) REFERENCES customers(customer_id))

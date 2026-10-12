@@ -1,0 +1,1 @@
+ALTER TABLE customers ADD CONSTRAINT check_age_customer CHECK (age >=0)

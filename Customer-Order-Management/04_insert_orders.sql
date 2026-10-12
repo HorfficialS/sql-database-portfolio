@@ -1,0 +1,1 @@
+INSERT INTO orders (order_id, product, price, customer_id) VALUES(1,'Laptop Bag',45000.00,1),(2,'Running Shoes',75000.00,2),(3,'Backpack',35000.00,3),(4,'Headphones',60000.00,1),(5,'Smart Watch',85000.00,4)

@@ -1,0 +1,1 @@
+UPDATE customers SET country = 'Ghana' WHERE customer_id=1

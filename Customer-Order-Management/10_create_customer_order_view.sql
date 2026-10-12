@@ -1,0 +1,1 @@
+CREATE VIEW customer_orders AS SELECT c.name, o.product, o.price FROM customers c INNER JOIN orders o ON c.customer_id = o.customer_id

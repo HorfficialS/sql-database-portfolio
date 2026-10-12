@@ -1,0 +1,1 @@
+UPDATE payments SET order_id = 4 WHERE payment_id = 4
